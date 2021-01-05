@@ -116,7 +116,8 @@ instrument.pattern <- "QE"
 
 ### Create file pattern ###
 # file.pattern <- "Vitamins"
-file.pattern <- "Example"
+# file.pattern <- "Example"
+file.pattern <- "EddyTransect"
 
 ####################################
 
@@ -164,15 +165,15 @@ Comment or uncomment the block of variable names appropriate for your run.
 # SN.RP.Cyano   <- SN_CYANO_EddyTransect
 
 # MSDial HILIC variables: 
-Area.positive <- Area_HILICPos_Example
-Mz.positive   <- Mz_HILICPos_Example
-RT.positive   <- RT_HILICPos_Example
-SN.positive   <- SN_HILICPos_Example
+Area.positive <- Area_HILICPos_EddyTransect
+Mz.positive   <- Mz_HILICPos_EddyTransect
+RT.positive   <- RT_HILICPos_EddyTransect
+SN.positive   <- SN_HILICPos_EddyTransect
 
-Area.negative <- Area_HILICNeg_Example
-Mz.negative   <- Mz_HILICNeg_Example
-RT.negative   <- RT_HILICNeg_Example
-SN.negative   <- SN_HILICNeg_Example
+Area.negative <- Area_HILICNeg_EddyTransect
+Mz.negative   <- Mz_HILICNeg_EddyTransect
+RT.negative   <- RT_HILICNeg_EddyTransect
+SN.negative   <- SN_HILICNeg_EddyTransect
 
 print(paste(file.pattern, instrument.pattern, software.pattern, "variables assigned."))
 ```
