@@ -1,17 +1,8 @@
-# But don't ignore these files: 
-!*/data_extras/
-
 # Ignore the following files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
-
-
-*.csv
-*.png
-*.txt
-
 
 
 
