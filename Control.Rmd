@@ -98,10 +98,10 @@ The matching.pattern and software.pattern variables *should not be changed by th
 ```{r Pattern matching, include = TRUE}
 ### Choose software pattern ###
 # MSDial
-software.pattern <- "MSDial"
+# software.pattern <- "MSDial"
 
 # Skyline
-# software.pattern <- "Skyline"
+software.pattern <- "Skyline"
 
 ####################################
 
@@ -116,7 +116,8 @@ instrument.pattern <- "QE"
 
 ### Create file pattern ###
 # file.pattern <- "Vitamins"
-file.pattern <- "Example"
+# file.pattern <- "Example"
+file.pattern <- "QE_Transition"
 
 ####################################
 
@@ -155,7 +156,7 @@ Comment or uncomment the block of variable names appropriate for your run.
 
 # Skyline HILIC variables: 
 # skyline.HILIC.neg <- Ant18_QE_Negative
-# skyline.HILIC.pos <- Ant18_QE_Positive
+skyline.HILIC.pos <- Ingalls_Lab_QE_Transition.Results
 
 # MSDial Cyano variables: 
 # Area.RP.Cyano <- Area_CYANO_EddyTransect
@@ -164,15 +165,15 @@ Comment or uncomment the block of variable names appropriate for your run.
 # SN.RP.Cyano   <- SN_CYANO_EddyTransect
 
 # MSDial HILIC variables: 
-Area.positive <- Area_HILICPos_Example
-Mz.positive   <- Mz_HILICPos_Example
-RT.positive   <- RT_HILICPos_Example
-SN.positive   <- SN_HILICPos_Example
-
-Area.negative <- Area_HILICNeg_Example
-Mz.negative   <- Mz_HILICNeg_Example
-RT.negative   <- RT_HILICNeg_Example
-SN.negative   <- SN_HILICNeg_Example
+# Area.positive <- Area_HILICPos_Example
+# Mz.positive   <- Mz_HILICPos_Example
+# RT.positive   <- RT_HILICPos_Example
+# SN.positive   <- SN_HILICPos_Example
+# 
+# Area.negative <- Area_HILICNeg_Example
+# Mz.negative   <- Mz_HILICNeg_Example
+# RT.negative   <- RT_HILICNeg_Example
+# SN.negative   <- SN_HILICNeg_Example
 
 print(paste(file.pattern, instrument.pattern, software.pattern, "variables assigned."))
 ```
