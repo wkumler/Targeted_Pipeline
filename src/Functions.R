@@ -82,6 +82,7 @@ IdentifyDuplicates <- function(df) {
   #
   if ("Column" %in% colnames(df)) {
     duplicates <- df %>%
+      rename(Metabolite.Name="Precursor.Ion.Name") %>%
       group_by(Metabolite.Name, Replicate.Name) %>%
       mutate(number = 1) %>%
       mutate(ticker = cumsum(number)) %>%

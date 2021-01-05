@@ -217,7 +217,7 @@ semifinal.table <- semifinal.table %>%
 semifinal.table$all.Flags <- gsub('^\\,|\\,$', '', semifinal.table$all.Flags)
 
 final.table <- semifinal.table %>%
-  select(Replicate.Name:Mass.Error.PPM, contains("Flag"))
+  select(Replicate.Name:Column, contains("Flag"))
 final.table[final.table==""]<-NA
 
 
