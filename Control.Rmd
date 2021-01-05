@@ -328,10 +328,10 @@ Comment out appropriate variable blocks according to HILIC or Cyano data.
 ```{r Cyano HILIC assignment, include = TRUE}
 
 # MSDial
-software.pattern <- "MSDial"
+# software.pattern <- "MSDial"
 
 # Skyline
-#software.pattern <- "Skyline"
+software.pattern <- "Skyline"
 
 # Cyano Skyline
 # Column.Type = "RP"
@@ -344,15 +344,16 @@ software.pattern <- "MSDial"
 # QC.pattern = "QC_Output_CYANO"
 
 # HILIC Skyline
-# Column.Type = "HILIC"
-# standards.pattern = "Ingalls"
-# QC.pattern = "QC_Output_HILIC"
-
-# HILIC MSDial
 Column.Type = "HILIC"
-sample.key.pattern = "HILIC"
 standards.pattern = "Ingalls"
 QC.pattern = "QC_Output_HILIC"
+sample.key.pattern = "Sample.Key.HILIC.csv"
+
+# HILIC MSDial
+# Column.Type = "HILIC"
+# sample.key.pattern = "HILIC"
+# standards.pattern = "Ingalls"
+# QC.pattern = "QC_Output_HILIC"
 
 print(paste(file.pattern, "column type, software pattern, standards pattern, and QC pattern assigned."))
 ```

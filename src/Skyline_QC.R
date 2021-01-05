@@ -25,16 +25,6 @@ if ("Column" %in% colnames(skyline.output)) {
     rename(Precursor.Ion.Name = Compound.Name) %>%
     select(Precursor.Ion.Name, HILICMix) %>%
     unique()
-  skyline.output.nostds <- skyline.output %>%
-    filter(!str_detect(Replicate.Name, "Std"))
-  skyline.output.std <- skyline.output %>%
-    filter(str_detect(Replicate.Name, "Std")) %>%
-    left_join(Internal.Standards) %>%
-    filter(str_detect(Replicate.Name, as.character(HILICMix)) | str_detect(Replicate.Name, regex("H2OinMatrix", ignore_case = TRUE))) %>% 
-    select(-HILICMix)
-  skyline.output <- skyline.output.std %>%
-    rbind(skyline.output.nostds) %>%
-    arrange(Precursor.Ion.Name)
 }
 
 # Depending on instrument.pattern, create comparison tables --------------------------------------
