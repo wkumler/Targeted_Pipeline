@@ -1,0 +1,149 @@
+"","Metabolite.Name","Run.Type","Blk.min","Blk.max"
+"1"," L-Arginosuccinic acid","blk",0,0
+"2","(3-Carboxypropyl)trimethylammonium","blk",577564,789292
+"3","(R)-2,3-Dihydroxypropane-1-sulfonate","blk",0,83672
+"4","1-Propanesulfonate","blk",0,0
+"5","2-Heptyl-3-hydroxy-quinolone","blk",0,18712
+"6","2-keto-4-methylthiobutyric acid","blk",0,0
+"7","2-Ketoglutaric acid","blk",0,82199
+"8","2-O-alpha-D-Glucosylglycerol","blk",0,0
+"9","2,5-Dihydroxybenzoic acid","blk",0,0
+"10","3',5'-Cyclic AMP","blk",0,0
+"11","3',5'-Cyclic diGMP","blk",0,0
+"12","3',5'-Cyclic GMP","blk",0,0
+"13","3-Sulfolactate, 13C3","blk",3426653,5000352
+"14","3-Sulfopyruvic acid","blk",0,0
+"15","4-Aminobutyric acid","blk",12592936,27966104
+"16","5-Hydroxyectoine","blk",861484,1202684
+"17","5-Methylcytosine","blk",1021823,1064080
+"18","5-Oxoproline","blk",2243776,7578673
+"19","Adenine","blk",4690110,6220579
+"20","Adenosine","blk",259493,1141159
+"21","Adenosine diphosphate","blk",0,0
+"22","Adenosine monophosphate","blk",0,0
+"23","Allopurinol","blk",0,245817
+"24","Amino Propanesulfonic Acid","blk",2907144,7198719
+"25","AMP, 15N5","blk",11025090,21163488
+"26","Arsenobetaine","blk",0,68376
+"27","beta-Alaninebetaine","blk",18154342,21209096
+"28","Butyrylcarnitine","blk",45400,104801
+"29","Carnitine","blk",3244564,3644046
+"30","Chitobiose","blk",0,0
+"31","Choline","blk",3751056,5235454
+"32","cis-Aconitic acid","blk",0,0
+"33","Citric acid","blk",0,48489
+"34","Citrulline","blk",44796,156359
+"35","Creatine","blk",332057,457562
+"36","Cys-Gly, oxidized","blk",15267,119217
+"37","Cytidine","blk",41936,75984
+"38","Cytosine","blk",1623288,2377728
+"39","D-Gluconic acid","blk",0,112198
+"40","D-Ribose 5-phosphate","blk",0,0
+"41","Deoxyadenosine","blk",56419,1166225
+"42","Dihydroxyacetone phosphate","blk",0,0
+"43","Dimethylsulfonioacetate","blk",1090803,1188465
+"44","Dimethylsulfoniopropionate","blk",10421794,14284987
+"45","DL-Alanine, 2H3","blk",4650384,10288872
+"46","DL-Histidine, 15N","blk",10442098,14787642
+"47","DL-Proline, 2H7","blk",45677304,65332064
+"48","DL-Valine, 2H8","blk",9338231,19091116
+"49","Ectoine","blk",2915571,15266242
+"50","Ergothioneine","blk",0,0
+"51","Ethanesulfonic acid","blk",0,51445
+"52","Flavin adenine dinucleotide","blk",0,0
+"53","Fumaric acid","blk",1079484,3375036
+"54","Glucosamine","blk",0,5196
+"55","Glutathione","blk",0,0
+"56","Glutathione disulfide","blk",0,0
+"57","Glycerophosphocholine","blk",101179,205322
+"58","Glycerophosphoric acid","blk",0,0
+"59","Glycine","blk",35810,45419
+"60","Glycine betaine","blk",264135008,296696896
+"61","GMP, 15N5","blk",418272,817401
+"62","Gonyol","blk",527537,637579
+"63","Guanine","blk",0,1070819
+"64","Guanosine","blk",0,9501
+"65","Guanosine monophosphate","blk",0,0
+"66","Homarine","blk",1074798,1872964
+"67","Hordenine","blk",284547,544348
+"68","Hydroxyisoleucine","blk",2277595,3344872
+"69","Hydroxyproline","blk",38637,161417
+"70","Hypotaurine","blk",0,0
+"71","Hypoxanthine","blk",0,132440
+"72","Inosine","blk",0,17266
+"73","Isethionic acid","blk",386119,3777804
+"74","Isethionic acid, 13C2","blk",17132910,55443916
+"75","L-Alanine","blk",989302,1267347
+"76","L-Arginine","blk",80987,155439
+"77","L-Asparagine","blk",341487,1009295
+"78","L-Aspartic acid","blk",4814,57218
+"79","L-Cystathionine","blk",0,0
+"80","L-Cysteic acid","blk",0,44636
+"81","L-Cysteic acid, 2H3","blk",2363536,4421151
+"82","L-Cystine","blk",5859,356070
+"83","L-Glutamic acid","blk",477863,682206
+"84","L-Glutamine","blk",522412,678944
+"85","L-Histidine","blk",873058,1025508
+"86","L-Hydroxylysine","blk",12535,61311
+"87","L-Isoleucine, 15N","blk",6845441,13312208
+"88","L-Leucine","blk",53400156,62688572
+"89","L-Lysine","blk",666580,1009456
+"90","L-Methionine","blk",23780,173213
+"91","L-Methionine S-oxide","blk",710692,1214964
+"92","L-Methionine, 2H3","blk",16824344,30855426
+"93","L-Ornithine","blk",138128,453649
+"94","L-Proline","blk",1274972,3215254
+"95","L-Serine","blk",1251980,2871369
+"96","L-Threonine","blk",301467,451639
+"97","L-Tyrosine","blk",138573,909203
+"98","L-Valine","blk",405666464,494969536
+"99","Lipoic acid","blk",0,0
+"100","Malic acid","blk",2062455,2333959
+"101","Melamine","blk",1883812,2578298
+"102","N-Acetyltaurine","blk",0,67334
+"103","N-Methyltaurine","blk",342880,2259445
+"104","N6-Acetyl-L-lysine","blk",357731,383118
+"105","N6-Methyladenine","blk",1154,14258
+"106","N6,N6,N6-Trimethyl-L-lysine","blk",0,4467
+"107","NAD","blk",0,0
+"108","NADH","blk",0,0
+"109","NADP","blk",0,0
+"110","Nicotinic acid","blk",6725834,9225573
+"111","O-Acetylcarnitine","blk",226777,930297
+"112","O-Methylmalonyl-L-carnitine","blk",0,6136
+"113","O-Propionylcarnitine","blk",68535,104218
+"114","Ophthalmic acid","blk",0,0
+"115","Orotic acid","blk",0,118801
+"116","Oxalic acid","blk",8232982,20777864
+"117","Phosphoenolpyruvic acid","blk",0,0
+"118","Proline betaine","blk",1645723,2140518
+"119","Riboflavin-5-phosphate","blk",0,0
+"120","S-Adenosylhomocysteine","blk",176213,301254
+"121","S-Adenosylmethionine","blk",0,0
+"122","Salicylic acid","blk",414870,533164
+"123","Sarcosine","blk",217970,354678
+"124","Shikimic acid","blk",70486,3204848
+"125","Sodium 2-mercaptoethanesulfonate","blk",577043,1063756
+"126","Succinic acid","blk",5299452,6404074
+"127","Succinic acid, 2H4","blk",48602024,53930300
+"128","Succinic semialdehyde","blk",3127726,8491342
+"129","Sucrose","blk",0,226060
+"130","Sulfanilic acid","blk",0,56869
+"131","Sulfoacetic acid","blk",0,0
+"132","Sulfoacetic acid, 13C2","blk",5197992,8480290
+"133","Sulfolactic Acid","blk",0,0
+"134","Taurine","blk",0,39544
+"135","Taurine, 2H4","blk",2482077,9913385
+"136","Thiamine monophosphate","blk",0,0
+"137","Thymidine","blk",0,0
+"138","Thymine","blk",0,3460325
+"139","Trehalose, 13C","blk",25503374,53124600
+"140","Trigonelline","blk",1438514,2445326
+"141","Trimethylamine N-oxide","blk",1299669,1882955
+"142","Turicine","blk",854877,984655
+"143","UDP-glucose","blk",0,0
+"144","UDP-N-acetylglucosamine","blk",0,0
+"145","Uracil","blk",3936900,10520472
+"146","Uridine","blk",0,0
+"147","Urocanic acid","blk",1502390,5784114
+"148",NA,"blk",0,1525152
