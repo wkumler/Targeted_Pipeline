@@ -459,7 +459,7 @@ Comment out appropriate variable blocks according to HILIC or Cyano data.
 # HILIC
 BMIS.pattern = "BMIS_Output_HILIC"
 QC.pattern = "QE_QC"
-names.pattern = "Names" #?????
+names.pattern = "Names"
 Column.Type = "HILIC"
 
 print(paste(file.pattern, "matching patterns assigned."))

@@ -1,0 +1,129 @@
+"","Metabolite.Name","RF.ratio"
+"1","(3-Carboxypropyl)trimethylammonium",2.38186084756828
+"2","(R)-2,3-Dihydroxypropane-1-sulfonate",0.398266667053039
+"3","1-Propanesulfonate",1.00850560246153
+"4","2-Heptyl-3-hydroxy-quinolone",0.780554909977099
+"5","2-Ketoglutaric acid",0.795581568435308
+"6","2-O-alpha-D-Glucosylglycerol",2.18560403032593
+"7","2,5-Dihydroxybenzoic acid",0.939806471718423
+"8","4-Aminobutyric acid",0.820086693375979
+"9","5-Hydroxyectoine",0.753966543294564
+"10","5-Methylcytosine",0.514483198444322
+"11","5-Oxoproline",0.488952391485218
+"12","Adenine",0.988573517912765
+"13","Adenosine",1.01320210477735
+"14","Adenosine diphosphate",0.703866590925435
+"15","Adenosine monophosphate",0.92273818972803
+"16","Allopurinol",0.958818244041071
+"17","Amino Propanesulfonic Acid",0.487855714199114
+"18","Arsenobetaine",0.84713302942912
+"19","beta-Alaninebetaine",2.01480502607955
+"20","Butyrylcarnitine",1.01943045437668
+"21","Carnitine",0.875476701592442
+"22","Chitobiose",0.789320044736758
+"23","Choline",12.082892786004
+"24","cis-Aconitic acid",1.38640745556421
+"25","Citric acid",2.91290309649249
+"26","Citrulline",0.962021087998437
+"27","Creatine",0.522671182190411
+"28","Cys-Gly, oxidized",0.775897104869676
+"29","Cytidine",0.923275051565564
+"30","Cytosine",0.746929063884799
+"31","D-Gluconic acid",0.243645595057306
+"32","Deoxyadenosine",0.920728395526446
+"33","Dimethylsulfonioacetate",0.890690940358276
+"34","Dimethylsulfoniopropionate",0.714841501372276
+"35","Ectoine",0.81740758399402
+"36","Ethanesulfonic acid",1.00666798644323
+"37","Fumaric acid",0.841708220911989
+"38","Glucosamine",0.401000229529601
+"39","Glutathione disulfide",0.827044167596492
+"40","Glycerophosphocholine",1.06196113128323
+"41","Glycerophosphoric acid",0.697179528491356
+"42","Glycine",0.862257659585528
+"43","Glycine betaine",0.58449007048085
+"44","Gonyol",0.14636522619367
+"45","Guanine",0.55215470703261
+"46","Guanosine",1.38047764847535
+"47","Guanosine monophosphate",0.203626281326248
+"48","Homarine",1.09498732681491
+"49","Hordenine",0.82211628762073
+"50","Hydroxyisoleucine",0.325204852669589
+"51","Hydroxyproline",0.540903287558605
+"52","Hypotaurine",0.613496939361938
+"53","Hypoxanthine",2.84582108404779
+"54","Inosine",0.935457815323745
+"55","Isethionic acid",1.06868227111621
+"56","L-Alanine",0.691375604757424
+"57","L-Arginine",0.919117837616582
+"58","L-Asparagine",0.675852658832091
+"59","L-Aspartic acid",0.946824669037765
+"60","L-Cystathionine",0.884416670958518
+"61","L-Cysteic acid",1.0522778304089
+"62","L-Cystine",0.497525622924974
+"63","L-Glutamic acid",1.13320685031255
+"64","L-Glutamine",0.92421519808464
+"65","L-Histidine",0.293442491749911
+"66","L-Hydroxylysine",0.808064955908274
+"67","L-Leucine",0.667623889848976
+"68","L-Lysine",0.898161328477343
+"69","L-Methionine",0.87468328664734
+"70","L-Methionine S-oxide",0.28049678327345
+"71","L-Ornithine",0.483631162229056
+"72","L-Proline",0.864704117027934
+"73","L-Serine",0.651509291142766
+"74","L-Threonine",0.652447359259585
+"75","L-Tyrosine",1.11754623735331
+"76","L-Valine",0.198263483374916
+"77","Malic acid",0.593947885023622
+"78","Melamine",0.476470626910427
+"79","N-Acetyltaurine",1.06002166815098
+"80","N-Methyltaurine",0.459976057028465
+"81","N6-Acetyl-L-lysine",0.302279311889769
+"82","N6-Methyladenine",0.387451834188653
+"83","N6,N6,N6-Trimethyl-L-lysine",40.1258372845639
+"84","Nicotinic acid",1.03235724737619
+"85","O-Acetylcarnitine",0.950451614225141
+"86","O-Methylmalonyl-L-carnitine",0.289821906314126
+"87","O-Propionylcarnitine",1.00881643231289
+"88","Ophthalmic acid",0.641739237215296
+"89","Orotic acid",0.996246909281817
+"90","Oxalic acid",3.44647007784321
+"91","Proline betaine",0.72166809243729
+"92","Riboflavin-5-phosphate",0.524399948241238
+"93","S-Adenosylhomocysteine",0.257901518846941
+"94","S-Adenosylmethionine",1.11394838166788
+"95","Salicylic acid",1.02818503397591
+"96","Sarcosine",0.163728602513774
+"97","Shikimic acid",0.39791099246195
+"98","Sodium 2-mercaptoethanesulfonate",1.09873339607366
+"99","Succinic acid",1.4531134521519
+"100","Succinic semialdehyde",0.978293902912072
+"101","Sucrose",0.509517932469322
+"102","Sulfoacetic acid",0.400952968999613
+"103","Sulfolactic Acid",3.7734606250723
+"104","Taurine",0.498932562163769
+"105","Thymidine",0.940342009153823
+"106","Thymine",0.991165788136
+"107","Trigonelline",0.969977496478461
+"108","Trimethylamine N-oxide",0.361785153990276
+"109","Turicine",0.919258375088435
+"110","UDP-N-acetylglucosamine",1.00722215684851
+"111","Uracil",0.90515061601099
+"112","Uridine",0.971315068727054
+"113","Urocanic acid",0.320650932473376
+"114","Glutathione",0.112
+"115","Dihydroxyacetone phosphate",0.52
+"116","3',5'-Cyclic AMP",0.661
+"117","3',5'-Cyclic GMP",0.598
+"118","3',5'-Cyclic diGMP",0.776
+"119","UDP-glucose",0.747
+"120","Lipoic acid",0.93
+"121","Phosphoenolpyruvic acid",0.668
+"122","Flavin adenine dinucleotide",0.489
+"123","NAD",0.594
+"124","NADH",0.85
+"125","NADP",0.741
+"126","D-Ribose 5-phosphate",0.561
+"127","3-Sulfopyruvic acid",1.078
+"128","Thiamine monophosphate",0.821
