@@ -126,7 +126,7 @@ file.pattern <- "EddyTransect"
 #matching.pattern <- "RP.Cyano"
 
 # HILIC
-matching.pattern <- "pos|neg"
+matching.pattern <- "\\.pos|\\.neg"
 
 print(paste("Your software type is:", software.pattern))
 print(paste("The instrument used in this run is:", instrument.pattern))
@@ -350,7 +350,7 @@ software.pattern <- "MSDial"
 
 # HILIC MSDial
 Column.Type = "HILIC"
-sample.key.pattern = "HILIC"
+sample.key.pattern = "EddyTransect"
 standards.pattern = "Ingalls"
 QC.pattern = "QC_Output_HILIC"
 
@@ -458,8 +458,8 @@ Comment out appropriate variable blocks according to HILIC or Cyano data.
 
 # HILIC
 BMIS.pattern = "BMIS_Output_HILIC"
-QC.pattern = "QC_Output_Example"
-names.pattern = "Names"
+QC.pattern = "QE_QC"
+names.pattern = "Names" #?????
 Column.Type = "HILIC"
 
 print(paste(file.pattern, "matching patterns assigned."))
